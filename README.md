@@ -2,6 +2,7 @@
 **A custom implementation of a Decision Tree Classifier with Gini impurity metric, trained on tabular data, and visualized using NetworkX and Matplotlib.**
 
 **Installation & Setup**
+
 **1. Clone the Repository**
 ```
 git clone https://github.com/your-username/decision-tree-classifier.git
@@ -95,7 +96,7 @@ Visualize:
 | -> Highly Acceptable
 ```
 ![image](https://github.com/user-attachments/assets/d713cff7-2224-4bfe-9862-d4433e8c9f1c)
-Figure 1. Result of Decision Tree Visualization
+**Figure 1. Result of Decision Tree Visualization**
 
 Visualized with NetworkX and Matplotlib.
 
@@ -106,7 +107,7 @@ Visualized with NetworkX and Matplotlib.
   
 ![image](https://github.com/user-attachments/assets/d7e40b69-8b0e-4a8b-8a82-13be4084bb3a)
 
-Figure 2. Result of Predictions with “max_depth=10”
+**Figure 2. Result of Predictions with “max_depth=10”**
 
 ## Conclusion
 <p>This project demonstrates a successful implementation of decision tree classification for car acceptability prediction. 
